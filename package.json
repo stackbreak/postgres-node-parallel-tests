@@ -1,5 +1,5 @@
 {
-  "name": "postgresql-tutorial-part2",
+  "name": "postgres-node-parallel-tests",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

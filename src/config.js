@@ -10,6 +10,9 @@ const getDBOptions = (isTest = false) => {
   return { ...common, database: dbName };
 };
 
+const APP_PORT = 3005;
+
 module.exports = {
   getDBOptions,
+  APP_PORT,
 };
